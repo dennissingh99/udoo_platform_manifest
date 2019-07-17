@@ -337,4 +337,5 @@
   <project remote="aosp" path="prebuilts/ndk" name="platform/prebuilts/ndk" revision="refs/tags/android-4.3_r2.1" />
   <project remote="aosp" path="ndk" name="platform/ndk" revision="refs/tags/android-4.3_r2.1" />
   <project remote="aosp" path="sdk" name="platform/sdk" revision="refs/tags/android-4.3_r2.1" />
+  
 </manifest>
